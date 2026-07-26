@@ -1,0 +1,33 @@
+# Dominion Dynamics
+
+> Dominion Dynamics builds the autonomy stack for the Arctic — integrated sensing, communications, and command and control for defence, security, and critical infrastructure.
+
+Dominion Dynamics Inc. is a Canadian defence-technology company (Kanata, Ontario) engineering interoperable, attritable systems for contested theatres. This file is a curated guide to the public site for language models and other automated readers.
+
+## Core pages
+
+- [Home](https://www.defendthedominion.com/): Company overview — next-generation defence systems for extreme operations and the Arctic.
+- [Aurion](https://www.defendthedominion.com/aurion): Open-source government procurement intelligence platform built on Canadian federal open data.
+- [AuraNet](https://www.defendthedominion.com/#auranet): Peer-to-peer sensor mesh for data fusion and command and control across allied networks.
+- [Newsroom](https://www.defendthedominion.com/news): Press releases, product news, and field notes.
+
+## Newsroom
+
+- [Announcing our $139M Series A](https://www.defendthedominion.com/news/announcing-our-139-m-series-a): Today, Dominion Dynamics is announcing a $139 million CAD Series A financing.
+- [Dominion Dynamics raises $139M CAD Series A to scale Arctic surveillance network and drone systems](https://www.defendthedominion.com/news/dominion-raises-139-m-cad-series-a): Led by Georgian, the round is the largest Series A in Canadian defence history and backs Dominion’s drive to revive the country’s tradition of building world-defining technology
+- [We deployed AuraNet in the High Arctic. Here's what we learned working with Rangers for eight weeks.](https://www.defendthedominion.com/news/auranet-high-arctic-nanook): Eight weeks, 5,200 kilometres, and -60° with the Canadian Rangers — what we learned fielding AuraNet during Operation NANOOK-NUNALIVUT.
+- [Dominion Dynamics and Denvr partner to build Canada's first sovereign AI simulation environment for Autonomous Collaborative Platforms](https://www.defendthedominion.com/news/denvr-sovereign-ai-simulation): A new partnership develops Canada's first sovereign AI simulation environment purpose-built for Autonomous Collaborative Platforms (ACPs).
+- [Dominion Dynamics makes initial $50-million investment to build a sovereign autonomous wingman](https://www.defendthedominion.com/news/acp-50-million-investment): The Ottawa defence firm is launching Canada's first Autonomous Collaborative Platform (ACP) as autonomy and attritability shape the future of warfighting.
+- [Dominion Dynamics launches AURION, an open-source procurement intelligence platform for Canada's defence industry](https://www.defendthedominion.com/news/aurion-launch): New platform brings transparency and actionable insight to defence procurement following the release of Canada's Defence Industrial Strategy.
+- [Dominion Dynamics raises $21M CAD seed round led by Georgian to build interoperable, attritable systems for the Arctic and allied defence](https://www.defendthedominion.com/news/21m-seed-round-georgian): Following its Q4 '25 launch and pre-seed raise, the accelerated financing marks a generational shift in Canadian national security.
+- [Dominion Dynamics launches to build Canada's sovereign defence future](https://www.defendthedominion.com/news/dominion-dynamics-launch): $4M pre-seed round backed exclusively by Canadian investors fuels new Arctic-focused defence technology company led by Anduril alum Eliot Pence.
+
+## Legal
+
+- [Privacy Policy](https://www.defendthedominion.com/privacy): How Dominion Dynamics handles personal information.
+- [Accessibility](https://www.defendthedominion.com/accessibility): Accessibility commitment (AODA / WCAG) and how to report a barrier.
+
+## Optional
+
+- [RSS feed](https://www.defendthedominion.com/rss.xml): Machine-readable newsroom feed.
+- [Sitemap](https://www.defendthedominion.com/sitemap-index.xml): Full list of indexable URLs.

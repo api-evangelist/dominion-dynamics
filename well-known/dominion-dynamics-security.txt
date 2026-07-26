@@ -1,0 +1,6 @@
+# Vulnerability disclosure contact for defendthedominion.com (RFC 9116).
+# Update Expires before it lapses (keep it within ~1 year of "now").
+Contact: mailto:info@ddc2.com
+Expires: 2027-06-27T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.defendthedominion.com/.well-known/security.txt

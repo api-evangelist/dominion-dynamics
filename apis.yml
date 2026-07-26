@@ -1,8 +1,16 @@
 aid: dominion-dynamics
 name: Dominion Dynamics
-description: 'Dominion Dynamics is a company surfaced as a portfolio company of bessemer-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. Sector: deep-tech. This profile is
-  a lead awaiting the enrichment pipeline.'
+description: 'Dominion Dynamics Inc. is a Canadian defence-technology company (Kanata/Ottawa,
+  Ontario) building the autonomy stack for the Arctic and other extreme, infrastructure-constrained
+  operating environments. It develops integrated autonomy, edge sensing, communications,
+  and command-and-control systems for defence, security, and critical infrastructure.
+  Its AuraNet platform is a peer-to-peer sensor mesh that fuses EO/IR/SAR imagery, SIGINT/EW/RF
+  signals, telemetry, and structured reporting into a unified local intelligence stream that
+  interoperates with existing allied C2 architectures, and its Aurion product is an open-source
+  government procurement intelligence platform built on Canadian federal open data. Founded by
+  Anduril alum Eliot Pence, the company raised a $139M CAD Series A (2026) led by Georgian. This
+  profile currently has no public developer/API surface; the entry captures the company identity,
+  security.txt, and llms.txt the company publishes.'
 url: https://raw.githubusercontent.com/api-evangelist/dominion-dynamics/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +18,32 @@ x-backed-by:
 - bessemer-venture-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.defendthedominion.com/og.jpg
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Deep Tech
+- Defense
+- National Security
+- Autonomy
+- Sensing
+- Command and Control
+- Arctic
+- Government
+- Canada
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +52,29 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://www.dominion-dynamics.com/
+  url: https://www.defendthedominion.com/
+- type: Blog
+  url: https://www.defendthedominion.com/news
+- type: BlogRSS
+  url: https://www.defendthedominion.com/rss.xml
+- type: PrivacyPolicy
+  url: https://www.defendthedominion.com/privacy
+- type: GitHubOrganization
+  url: https://github.com/Dominion-Dynamics
+- type: LLMsTxt
+  url: llms/dominion-dynamics-llms.txt
+- type: WellKnown
+  url: well-known/dominion-dynamics-well-known.yml
+- type: SecurityTxt
+  url: well-known/dominion-dynamics-security.txt
+- type: VulnerabilityDisclosure
+  url: security/dominion-dynamics-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.defendthedominion.com/.well-known/security.txt
+- type: DomainSecurity
+  url: security/dominion-dynamics-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
